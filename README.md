@@ -17,4 +17,5 @@ I'm an IT student, currently in a career transition phase
 </div>
   
 ## thank you.
+![Snake animation](https://github.com/usrjair0/usrjair0/blob/output/github-contribution-grid-snake.svg)
 
