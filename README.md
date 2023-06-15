@@ -10,10 +10,9 @@ I'm an IT student, currently in a career transition phase.
 <a href="https://www.linkedin.com/in/jairo-silva-1bb24a25a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div>
-<a href="https://github.com/seu-usrjair0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrjair0&layout=compact&langs_count=7&theme=dracula"/>
   
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usrjair0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usrjair0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
   
 ## thank you.
