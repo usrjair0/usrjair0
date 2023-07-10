@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile.
+<img width=100% src = "https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=180&section=header&text=Jairo%20Silva%20Sobrinho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 My name is Jairo and here is my space where I record some of the projects I do! 👾<br>
 I'm an IT student, currently in a career transition phase.
 
@@ -20,8 +20,6 @@ I'm an IT student, currently in a career transition phase.
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usrjair0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
   
 ## thank you.
 ![Snake animation](https://github.com/usrjair0/usrjair0/blob/output/github-contribution-grid-snake.svg)
