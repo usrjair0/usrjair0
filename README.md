@@ -20,5 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usrjair0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ## thank you.
-![Snake animation](https://github.com/usrjair0/usrjair0/blob/output/github-contribution-grid-snake.svg)
-
+<!-- ![Snake animation](https://github.com/usrjair0/usrjair0/blob/output/github-contribution-grid-snake.svg) -->
