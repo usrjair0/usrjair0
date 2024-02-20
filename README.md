@@ -1,7 +1,7 @@
 <img width=100% src = "https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=180&section=header&text=Jairo%20Silva%20Sobrinho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 #### My name is Jairo and here is my space where I record some of the projects I do! 👾<br>
-#### I'm an software engineering student currently in a career transition phase
+#### I'm an software engineering student currently in a career transition phase.
 
 ## 💻tools and technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
